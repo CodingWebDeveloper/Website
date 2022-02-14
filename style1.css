@@ -157,14 +157,14 @@ h4{
 }
 
 .bg1::after {
-    background: url("https://kylianmbappe.com/wp-content/uploads/2017/12/Fond_01.jpg");
+    background: url("Resources/Fond_01.jpg");
     background-size: cover;
     background-repeat: no-repeat ;
     width: 100vw;
 }
 
 .bg2::after {
-    background:  url("https://kylianmbappe.com/wp-content/uploads/2018/07/actualites-1.jpg");
+    background:  url("Resources/actualites-1.jpg");
     background-size: cover;
     background-repeat: no-repeat ;
 }
@@ -176,7 +176,7 @@ h4{
 }
 
 .bg4::after{
-    background: url("https://kylianmbappe.com/wp-content/uploads/2017/12/Fond03.jpg");
+    background: url("Resources/Fond03.jpg");
     background-size: cover;
     background-repeat: no-repeat ;
 }
@@ -188,7 +188,7 @@ h4{
 }
 
 .bg6::after{
-    background: url("https://kylianmbappe.com/wp-content/uploads/2017/12/white.jpg"); 
+    background: url("Resources/white.jpg"); 
     background-size: cover;
     background-repeat: no-repeat ;
 }
