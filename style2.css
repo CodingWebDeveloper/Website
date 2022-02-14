@@ -1,0 +1,10 @@
+.nav-item a:visited{
+    color: black !important;
+    font-size: 13px;
+}
+
+.nav-item a:link{
+    color: black !important;
+    font-weight: bold;
+    font-size: 13px;
+}
