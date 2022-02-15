@@ -281,11 +281,27 @@ a{
     text-decoration: none;
 }
 
-section svg{
+.section svg{
     width: 100px;
     height: 100px;
     margin-bottom: 100px;
     color: white;
+}
+
+.sign{
+    color: black !important;
+    height: 36px; 
+    width: 36px;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.sign:hover{
+    cursor: pointer;
+    color: white !important;
+    opacity: 1;
+    background-color: #000;
+    transition: color 550ms background-color 550ms;
 }
 
 footer svg{
